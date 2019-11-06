@@ -1,11 +1,11 @@
 ---
 
 layout: col-sidebar
-title: OWASP bangalore
+title: OWASP Bangalore
 tags: example-tag
 level: 4
 
-region: Middle East
+region: Asia/Pacific
 
 ---
 
