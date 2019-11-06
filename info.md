@@ -1,4 +1,4 @@
-### bangalore Information
+### Bangalore Information
 * [Flagship Project](#)
 * [Tool Project](#)
 * [Version 2.8.0](#)
