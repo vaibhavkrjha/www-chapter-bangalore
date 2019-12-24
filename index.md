@@ -2,14 +2,13 @@
 
 layout: col-sidebar
 title: OWASP Bangalore
-tags: archive-tag
+tags: blr
 level: 0
 
 region: Asia/Pacific
 
 
 ---
-
 
 # **Stay Updated**
 
