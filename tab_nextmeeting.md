@@ -1,5 +1,5 @@
 ---
-title: Archive
+title: Next Meeting
 tab: true
 order: 1
 tags: blr
