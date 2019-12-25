@@ -504,6 +504,18 @@ more information
 <tbody>
 <tr class="odd">
 <td><p>99</p></td>
+<td><p>21 December 2019</p></td>
+<td><p>Sprinklr Solutions Pvt Ltd. (https://goo.gl/maps/AY3FVw63rD52)</p></td>
+<td><p>09:30 AM</p></td>
+</tr>
+<tr class="even">
+<td><p>99</p></td>
+<td><p>23 November 2019</p></td>
+<td><p>Sprinklr Solutions Pvt Ltd. (https://goo.gl/maps/AY3FVw63rD52)</p></td>
+<td><p>09:30 AM</p></td>
+</tr>
+<tr class="odd">
+<td><p>99</p></td>
 <td><p>19 October 2019</p></td>
 <td><p>Sprinklr Solutions Pvt Ltd. (https://goo.gl/maps/AY3FVw63rD52)</p></td>
 <td><p>09:30 AM</p></td>
