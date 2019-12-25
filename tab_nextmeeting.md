@@ -29,4 +29,4 @@ To be Announced
 
 To be Announced
 
-### RSVP: 
+### RSVP: https://www.meetup.com/OWASP-Bangalore-Chapter/events/267407558/
