@@ -1,9 +1,6 @@
 ### Leaders
 
-* [Vandana Verma](mailto:Vandana.verma@owasp.org) 
-* [Riyaz Walikar](mailto:riyaz.walikar@owasp.org) 
-* [Prashant Kv](mailto:kvprashant@owasp.org) 
-
-
-
+* [Vandana Verma](mailto:vandana.verma@owasp.org)
+* [Prashant Venkatesh](mailto:kvprashant@owasp.org)
+* [Riyaz Walikar](mailto:riyaz.walikar@owasp.org)
 
