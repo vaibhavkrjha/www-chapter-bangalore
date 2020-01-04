@@ -17,13 +17,21 @@ willingness to share and learn.
 ### **Sessions**
 
   09:30AM Nmap Basics by Manish Sharma
+
   10:00AM Welcome Note / Registrations
+
   10:15AM NoSQL Injection by Aditya Srinagesh
+
   11:00AM Networking Session And Open Q&A
+
   11:15AM Metasploit Primary by Nitesh Surana
+
   11:55AM Break
+
   12:10PM Secure SDLC by varsha
+
   12:40PM XXE Injection by kishan lal choudhary
+  
   01:20PM Feedback & Next Month Planning 
 
 ### **Venue:**
