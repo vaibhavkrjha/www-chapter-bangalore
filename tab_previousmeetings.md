@@ -17,6 +17,36 @@ tags: blr
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>103</p></td>
+<td><p>15 February 2020</p></td>
+<td><p>Flipkart Internet Pvt Ltd -ETV Campus(https://goo.gl/maps/RYivtdJX6jwin35d6)</p></td>
+<td><p>09:30 AM</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>102</p></td>
+<td><p>18 January 2020</p></td>
+<td><p>Sprinklr Solutions Pvt Ltd. (https://goo.gl/maps/AY3FVw63rD52)</p></td>
+<td><p>09:30 AM</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="even">
 <td><p>101</p></td>
 <td><p>21 December 2019</p></td>
