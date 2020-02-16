@@ -8,6 +8,20 @@ tags: blr
 
 # **Chapter News**
 
+### 15 February 2020
+
+Details of the next combined null/OWASP/G4H Bangalore meeting have been
+posted. Please follow the
+[link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/268392596/) for
+more information
+
+### 18 January 2020
+
+Details of the next combined null/OWASP/G4H Bangalore meeting have been
+posted. Please follow the
+[link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/267407558/) for
+more information
+
 ### 21 December 2019
 
 Details of the next combined null/OWASP/G4H Bangalore meeting have been
