@@ -5,7 +5,7 @@ title: OWASP Bangalore
 tags: blr
 level: 0
 
-region: Asia/Pacific
+region: Asia
 
 
 ---
