@@ -11,9 +11,9 @@
 
 * [MeetUp](https://www.meetup.com/OWASP-Bangalore-Chapter/)
 
-* [Facebook](https://www.facebook.com/OWASPBangalore/)
+* [Facebook](https://www.facebook.com/owaspnoida/)
  
-* [Twitter](https://twitter.com/OWASPBangalore)
+* [Instagram](https://instagram.com/owaspnoida)
  
 
 ### Become speaker
